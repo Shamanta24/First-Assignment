@@ -1,0 +1,15 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+.skip{
+    color: salmon;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(tomato,salmon,orange);
+    padding: 10px 40px;
+    color:whitesmoke;
+    font-weight: 700;
+    border-radius:10px;
+}
