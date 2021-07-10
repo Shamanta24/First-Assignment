@@ -7,9 +7,9 @@ body{
 }
 .link-button{
     text-decoration: none;
-    background-image:linear-gradient(tomato,salmon,orange);
+    background-image:linear-gradient(tomato,salmon,orangered);
     padding: 10px 40px;
-    color:whitesmoke;
+    color: white;
     font-weight: 700;
     border-radius:10px;
 }
@@ -17,15 +17,18 @@ body{
     display: flex;
 }
 .half-width{
-    width: 50%;
-    padding-left: 5%;
-    padding-right: 5%;
+    width: 55%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .half-width-img{
-    width: 80%;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    width:65%
 
 }
+h1{
+    font-size: 70px;
+}
+p {
+    text-indent: 0px;
+    font-size: 20px;
+  }
