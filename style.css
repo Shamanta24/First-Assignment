@@ -58,3 +58,27 @@ p {
       text-align: center;
       font-size: 45px;
   }
+  .item{
+    width: 30%;
+    display: inline-table;
+    position: relative;
+    padding-right: 2%;
+    padding-left: 1%;
+  }
+  .pasta{
+    position: relative;
+    width: 80%;
+    height: 45%;
+    border-width: 15%;
+    border-radius: 25px;
+    border-image: linear-gradient(grey,white,skyblue);
+    border-image-slice: 1;
+    text-shadow: grey;
+    box-shadow: honeydew;
+  }
+  .tagline{
+      text-align:center;
+  }
+  .footer{
+      background-image:linear-gradient(black,grey,wheat)
+  }
